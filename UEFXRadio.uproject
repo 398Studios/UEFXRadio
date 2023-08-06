@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBB73A84-4306-D439-2EE9-63A4A5420BB7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UEFXRadio",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
